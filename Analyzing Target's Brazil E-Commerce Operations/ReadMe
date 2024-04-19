@@ -1,1 +1,9 @@
+Analysing Target's Brazil E-Commerce Operations
 
+This repository contains the code and write-up for a data analysis(SQL) project focused on exploring a dataset of Target orders in Brazil. 
+The objective is to explore valuable insights related to customer behavior, state-level variations, and payment methods.
+
+Files Included:
+
+Dataset : This file contains the SQL dataset link.
+target_analysis2.pdf : his file contains the SQL queries used to analyze the Target dataset, and recommendations based on the same.
