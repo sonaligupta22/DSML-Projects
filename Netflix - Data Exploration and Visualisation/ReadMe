@@ -1,1 +1,9 @@
-Hello
+Netflix Data Exploration and Visualization
+
+This repository explores a dataset related to Netflix movies and TV shows, aiming to uncover user preferences and 
+content characteristics through data analysis and visualization techniques.
+
+Files Included:
+
+Netflix - Data Exploration and Visualisation.pdf : This PDF contains the code for data cleaning, exploration, and visualization.
+Dataset : This folder contain the Netflix data I've used for the analysis.
