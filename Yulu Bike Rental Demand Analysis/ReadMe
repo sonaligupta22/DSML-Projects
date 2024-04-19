@@ -1,1 +1,11 @@
-Hello
+Yulu Bike Rental Demand Analysis
+
+This repository delves into factors influencing ridership for Yulu bike rentals in the Indian market. 
+By exploring data and potentially employing hypothesis testing techniques, the project aims to understand how working days, 
+seasons, and weather impact rental demand.
+
+Files Included:
+
+yulu_demand_analysis.pdf : This file contains data analysis(isualizations generated during the analysis) and hypothesis testing code 
+& isights to understand ridership factors.
+yulu_data : This folder contains the Yulu bike rental data I've used for the analysis.
